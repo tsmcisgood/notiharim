@@ -1,10 +1,10 @@
 # notiharim
 
-A new Flutter project.
+만료 기간 알림 앱
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+만료 기간 알림 앱
 
 A few resources to get you started if this is your first Flutter project:
 
